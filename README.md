@@ -6,7 +6,7 @@ My progress and impressions:)
 
 I previously tried to use git but mostly used only the main commands: git init/add/commit/pull/push/merge. 
 These courses helped to structure information and understand how to work with GitHub. The [learngitbranching](https://learngitbranching.js.org/) course was very interesting and helped to consolidate knowledge.
-What surprised me and what I am going to use in the future - "cherry-pick" and "rebase".
+What surprised me and what I am going to use in the future - "cherry-pick" and "reba se".
 
 [screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_git_basics)
 
@@ -19,3 +19,9 @@ Learning the command line was something new to me. I'm glad I finally figured ou
 [screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_linux_cli)
 
 [my notes](https://www.evernote.com/shard/s575/sh/9001a0e9-6769-4cfc-9d8e-acdbc42a0ab4/8103803d628536a92e3b28e20af05b24)
+
+## Git Collaboration
+
+After finishing "git basics" part of course, "git collaboration" was quite ease. 
+
+[screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_git_collaboration)
