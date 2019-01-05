@@ -25,3 +25,15 @@ Learning the command line was something new to me. I'm glad I finally figured ou
 After finishing "git basics" part of course, "git collaboration" was quite ease. 
 
 [screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_git_collaboration)
+
+## Intro to HTML and CSS
+
+I took these courses earlier so I just refreshed my knowledge.
+
+[screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_html_css_intro)
+
+## Responsive Web Design
+
+In this course, it was interesting to learn about emulators/simulators, developing tools for mobile, what is viewport and DIP, picking breakpoints and intro to pattern.
+
+[screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_responsive_web_design)
