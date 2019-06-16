@@ -22,7 +22,7 @@ Learning the command line was something new to me. I'm glad I finally figured ou
 
 ## Git Collaboration
 
-After finishing "git basics" part of course, "git collaboration" was quite ease. 
+After finishing "git basics" part of course, "git collaboration" was quite easy. 
 
 [screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_git_collaboration)
 
@@ -37,3 +37,7 @@ I took these courses earlier so I just refreshed my knowledge.
 In this course, it was interesting to learn about emulators/simulators, developing tools for mobile, what is viewport and DIP, picking breakpoints and intro to pattern.
 
 [screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_responsive_web_design)
+
+## JavaScript Basics
+
+Passing FreeCodeCamp was very useful: I review the basic principles of JS, but the most interesting part of this task are learning ES6 features (constructor, getters, setters) and resolving alghorithms tasks - it was a real challenge.
