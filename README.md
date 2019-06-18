@@ -41,3 +41,11 @@ In this course, it was interesting to learn about emulators/simulators, developi
 ## JavaScript Basics
 
 Passing FreeCodeCamp was very useful: I review the basic principles of JS, but the most interesting part of this task are learning ES6 features (constructor, getters, setters) and resolving alghorithms tasks - it was a real challenge.
+
+[screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_js_basics)
+
+##JS DOM
+
+Udacity course was very useful: specially information about page rendering, reviewing basic DOM methods and how reflow and repainting affect perfomance, also Virtual DOM.
+
+[screenshots](https://github.com/YanaGushlevskaya/kottans-frontend/tree/master/task_js_DOM)
